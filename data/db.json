@@ -1,0 +1,19 @@
+{
+	"items": [
+		{
+			"id": 1,
+			"checked": false,
+			"item": "Football"
+		},
+		{
+			"id": 2,
+			"checked": false,
+			"item": "Cricket"
+		},
+		{
+			"id": 3,
+			"checked": false,
+			"item": "Volleyball"
+		}
+	]
+}
